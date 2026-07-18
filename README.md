@@ -47,13 +47,13 @@
 
 ### 📈 Estatísticas de Desenvolvedor
 
-### 📈 Estatísticas de Desenvolvedor
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabbeta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabbeta&layout=compact&langs_count=7&theme=tokyonight"/>
+  <!-- Contador de visitas dinâmico e animado -->
+  <img src="https://profile-counter.glitch.me/Fabbeta/count.svg" alt="Contador de Visitas" />
 </div>
 
 ---
 
 <p align="center"><i>"A evolução tecnológica na educação não é sobre ferramentas, é sobre transformar mentes."</i></p>
+
+
