@@ -1,56 +1,30 @@
 # Fabio
-import React from 'react';
+# Olá, bem-vindo ao meu perfil! 👋
 
-interface ProfileProps {
-  name: string;
-  age: number;
-  role: string;
-  experienceYears: number;
-  specialty: string;
-  skills: string[];
-}
+## Meu nome é Fábio Ribeiro
+Sou **Docente Acadêmico** e **Especialista em Computação** com 24 anos de experiência consolidada na educação tecnológica. 
 
-const FabioProfile: React.FC = () => {
-  const profileData: ProfileProps = {
-    name: "Fábio Ribeiro",
-    age: 54,
-    role: "Docente acadêmico e Especialista em Computação",
-    experienceYears: 25,
-    specialty: "Robótica",
-    skills: ["ML", "CD", "DS", "AR", "VR", "AI", "SQL", "JAVA", "Python"]
-  };
+---
 
-  return (
-    <div className="p-6 max-w-md mx-auto bg-white rounded-xl shadow-md space-y-4">
-      <header className="text-center">
-        <h1 className="text-2xl font-bold text-gray-900">Olá!</h1>
-        <p className="text-gray-500">Meu nome é <span className="font-semibold">{profileData.name}</span></p>
-      </header>
-      
-      <section className="space-y-2">
-        <p className="text-sm text-gray-700">
-          Tenho {profileData.age} anos, sou <strong>{profileData.role}</strong> com {profileData.experienceYears} anos de experiência na educação.
-        </p>
-        <p className="text-sm text-gray-700">
-          Possuo especialização em <strong>{profileData.specialty}</strong>.
-        </p>
-      </section>
+### 👨‍🏫 Sobre Mim
+* **Idade:** 54 anos
+* **Especialização:** Robótica
+* **Localização:** São Paulo, Brasil 📍
 
-      <section>
-        <h2 className="text-sm font-semibold text-gray-900 uppercase tracking-wider">Principais Habilidades:</h2>
-        <div className="flex flex-wrap gap-2 mt-2">
-          {profileData.skills.map((skill, index) => (
-            <span 
-              key={index} 
-              className="px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800"
-            >
-              {skill}
-            </span>
-          ))}
-        </div>
-      </section>
-    </div>
-  );
-};
+---
 
-export default FabioProfile;
+### 🛠️ Minhas Principais Habilidades
+
+| Tecnologia / Área | Badge |
+| :--- | :--- |
+| **Machine Learning** | ![ML](https://img.shields.io/badge/Machine_Learning-🧠-blue?style=for-the-badge) |
+| **Data Science** | ![DS](https://img.shields.io/badge/Data_Science-📊-green?style=for-the-badge) |
+| **Artificial Intelligence** | ![AI](https://img.shields.io/badge/Artificial_Intelligence-🤖-purple?style=for-the-badge) |
+| **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Java** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **SQL** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge) |
+| **Realidade Virtual & Aumentada** | ![VR/AR](https://img.shields.io/badge/AR_/_VR-🥽-orange?style=for-the-badge) |
+
+---
+
+*Discente e entusiasta da evolução tecnológica na educação.*
