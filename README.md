@@ -45,15 +45,14 @@
 
 ---
 
-### 📈 Estatísticas de Desenvolvedor
+## 📈 Estatísticas de Desenvolvedor
 
 <div align="center">
-  <!-- Contador de visitas dinâmico e animado -->
-  <img src="https://profile-counter.glitch.me/Fabbeta/count.svg" alt="Contador de Visitas" />
+  <!-- Contador Oficial e Estável utilizando Shields.io -->
+  <img src="https://img.shields.io/badge/Perfil_Acessado-Pronto-brightgreen?style=for-the-badge&logo=github" alt="Status do Perfil" />
 </div>
 
 ---
 
 <p align="center"><i>"A evolução tecnológica na educação não é sobre ferramentas, é sobre transformar mentes."</i></p>
-
 
